@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '653'
     url: http://www.gutenberg.org/2009/agents/653
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24598#A-Modern-History-From-the-Time-of-Luther-to-the-Fall-of-NapoleonFor-the-Use-of-Schools-and-Co_
 gutenberg_bookshelf:
 - Children's History
 - Children's Instructional Books
